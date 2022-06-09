@@ -190,7 +190,6 @@ section#area-sobre h1{
     
 }
 section #area-sobretxt h2{
-    width: 400px;
     font-size: 40px;
     font-weight: 700;
     padding-bottom: 20px;
@@ -617,7 +616,7 @@ footer{
     #area-apr{
 
         width: 350px;
-        height: 400px;
+        height: 500px;
     }
 
     #area-apr #foto {
