@@ -1,3 +1,4 @@
+/*
 function AbrirMenu(){
 
     let MenuArea = document.querySelector('nav');
@@ -15,6 +16,33 @@ function AbrirMenu(){
 
 
 }
+*/
+
+
+
+
+function AbrirMenu(){
+    
+
+     
+
+    let MenuArea = document.querySelector("nav");
+
+    if(MenuArea.style.width == '35%' ){
+        
+
+        MenuArea.style.width ='0';
+
+    }
+    else{
+
+        MenuArea.style.width ='35%';
+    }
+
+}
+
+
+
 
 
     
