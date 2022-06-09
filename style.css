@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url('/img/capa.png');
+    background-image: url('capa.png');
     background-size:cover;
     background-color:#1e223e ;    
     background-position: top;
