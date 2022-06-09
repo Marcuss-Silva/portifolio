@@ -704,6 +704,7 @@ footer{
     section#area-sobre div{
 
         flex-wrap: wrap;
+        align-items: flex-start;
     }
     .form{
 
@@ -781,7 +782,7 @@ footer{
         font-size: 14px;
     }
     
-    
+
     .footer-area-social {
         display: flex;
         margin: 10px 0 10px 0;
