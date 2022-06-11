@@ -267,19 +267,19 @@ section#area-sobre div{
     text-transform: uppercase;
     font-size:30px;
 
-    transition: all 1s ease;
+    transition: all 1.5s ease;
 }
-.html:hover{
-    width:400px;
+#html:hover{
+    width: 400px;
     background-color: #FC490B;
    
 }
-.css:hover{
+#css:hover{
     width:400px;
     background-color: #2196F3;
 
 }
-.js:hover{
+#js:hover{
 
     width: 400px;
     background-color: #FFDF00;
@@ -287,20 +287,13 @@ section#area-sobre div{
 
 }
 
+
 .icone span{
 
-    display: none;
     width: 200px;
 
 }
 
-.icone span:hover{
-
-
-    display:inline-block;
-
-
-}
 
 
 .icone img{
