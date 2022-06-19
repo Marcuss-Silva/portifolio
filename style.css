@@ -68,6 +68,7 @@ header{
     display: flex;
     height: 100%;
     justify-content: space-around;
+    
 
 
 }
@@ -94,7 +95,7 @@ nav a:hover{
 
     color:#04D361;
     font-size: 16px;
-
+    
 
 }
 main{
