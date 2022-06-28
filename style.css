@@ -348,6 +348,10 @@ section#area-sobre div{
     height: 250px;
     font-size: 50px;
     background-color: #1e223ea2;
+    transition: .1s ease-in-out;
+}
+.area-proj1:hover{
+    opacity: .4;
 }
 .area-proj1 span{
 
